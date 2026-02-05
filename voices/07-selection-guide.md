@@ -1,7 +1,7 @@
 # Voice Selection Guide
 **Document Type:** Voice Mode Guide  
 **Priority:** High  
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-02-05
 
 How to choose the right voice mode for any communication situation.
 
@@ -16,7 +16,8 @@ Start with these questions:
 - **Direct report?** → Likely Coaching & Feedback or Caring Manager
 - **Broader team/stakeholders?** → Likely Strategic Leadership
 - **Designer for craft feedback?** → Likely Design Critique
-- **Executive/customer?** → Likely Presenter
+- **Leader/executive (updating, briefing, asking)?** → Likely Leader Conversation
+- **Executive/customer (presenting, pitching)?** → Likely Presenter
 
 ### 2. What's your goal?
 - **Align, explore, solve together?** → Collaborative
@@ -24,7 +25,8 @@ Start with these questions:
 - **Support well-being, reduce pressure?** → Caring Manager
 - **Set direction, make decisions clear?** → Strategic Leadership
 - **Elevate craft, improve design?** → Design Critique
-- **Communicate value, gain buy-in?** → Presenter
+- **Update a leader, run something by them, brief without performing?** → Leader Conversation
+- **Communicate value, gain buy-in (formal pitch/presentation)?** → Presenter
 
 ### 3. What are the emotional stakes?
 - **Low:** Collaborative, Design Critique, Presenter
@@ -43,6 +45,8 @@ Start with these questions:
 | EGDS roadmap announcement | Strategic Leadership | Direction-setting, stakeholder alignment |
 | Reviewing component design | Design Critique | Craft feedback, quality standards |
 | Executive presentation on EGDS impact | Presenter | Executive audience, strategic value |
+| Email to your VP with a quick update or blocker | Leader Conversation | Upward, genuine, not a pitch |
+| Running a decision by your director before locking it | Leader Conversation | Asking for input, clear and direct |
 | Performance review | Coaching & Feedback | Developmental intent, clear expectations |
 | Exploring design system architecture | Collaborative | Peer exploration, open problem-solving |
 | Setting component standards | Strategic Leadership | Leadership decision, clarity needed |
@@ -76,6 +80,15 @@ Start with these questions:
 **Signals:** Leadership → team/stakeholders, direction-setting intent, need for clarity and decisiveness, strategic thinking required.
 
 **File:** `03-strategic-leadership.md`
+
+---
+
+### Leader Conversation
+**Use when:** Updating your manager/director/VP, running an idea by a leader, briefing an exec who needs the real picture (not a deck), asking for input from someone senior.
+
+**Signals:** Upward or lateral-to-senior audience, you're updating or asking (not announcing direction), want to sound like yourself without performing, clear and respectful of their time.
+
+**File:** `05-leader-conversation.md`
 
 ---
 
@@ -187,28 +200,35 @@ Keep them separate so each gets the right tone.
 
 ---
 
-### Mistake 2: Using Collaborative Mode for Feedback
+### Mistake 2: Using Presenter When You're Just Updating a Leader
+**Problem:** Presenter is for formal presentations and pitches. If you're updating your VP or running something by your director, you don't need to perform.
+
+**Fix:** Use Leader Conversation. Be clear and direct. Sound like yourself. No metric-stuffing or positioning language.
+
+---
+
+### Mistake 3: Using Collaborative Mode for Feedback
 **Problem:** Feedback needs directness. Collaborative is exploratory and can feel vague.
 
 **Fix:** Use Coaching & Feedback. Be clear, kind, and specific.
 
 ---
 
-### Mistake 3: Using Strategic Leadership for Well-being Conversations
+### Mistake 4: Using Strategic Leadership for Well-being Conversations
 **Problem:** Well-being needs warmth and patience, not decisiveness.
 
 **Fix:** Use Caring Manager. Slow down and prioritize the person.
 
 ---
 
-### Mistake 4: Using Caring Manager for Performance Issues
+### Mistake 5: Using Caring Manager for Performance Issues
 **Problem:** Over-softening feedback creates ambiguity.
 
 **Fix:** Use Coaching & Feedback. Name the issue clearly, then offer support.
 
 ---
 
-### Mistake 5: Mixing Modes Mid-Message
+### Mistake 6: Mixing Modes Mid-Message
 **Problem:** Shifting tone within a single message creates confusion.
 
 **Fix:** Choose one primary mode per message. If you need multiple tones, write separate sections with clear transitions.
@@ -250,6 +270,7 @@ If you're stuck between modes, ask:
 - Support or reduce pressure? → Caring Manager
 - Decide or direct? → Strategic Leadership
 - Elevate craft? → Design Critique
-- Communicate value? → Presenter
+- Update or brief a leader (genuine, not pitch)? → Leader Conversation
+- Communicate value (formal pitch/presentation)? → Presenter
 
 The answer will point you to the right mode.

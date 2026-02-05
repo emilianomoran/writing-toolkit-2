@@ -1,5 +1,5 @@
 # Voices Index
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-02-05
 
 ## What's in This Folder
 Specific voice modes for different communication situations and audiences.
@@ -28,6 +28,11 @@ Specific voice modes for different communication situations and audiences.
 **Use when:** Presenting to executives, pitching, high-stakes visibility  
 **Keywords:** executive, presenter, professional, value, metrics, business outcomes
 
+### 05-leader-conversation.md
+**Purpose:** Genuine, direct communication with leaders and executives  
+**Use when:** Updating a leader, running something by them, briefing without performing  
+**Keywords:** upward, leader, executive, update, brief, genuine, no polish
+
 ### 07-selection-guide.md
 **Purpose:** How to choose the right voice mode  
 **Use when:** Uncertain which voice to use for a situation  
@@ -43,7 +48,8 @@ See `07-selection-guide.md` for complete decision tree.
 - Peer problem-solving → Collaborative
 - Design feedback → Design Critique  
 - Setting direction → Strategic Leadership
-- Executive communication → Presenter
+- Updating or briefing a leader (genuine, not pitch) → Leader Conversation
+- Executive presentation or pitch → Presenter
 
 ---
 
