@@ -1,0 +1,27 @@
+---
+description: Required context files to read at the start of every conversation (Emiliano's context and role).
+alwaysApply: true
+---
+
+# REQUIRED CONTEXT: Always Reference These Documents
+
+**CRITICAL: At the start of EVERY conversation, you MUST read these context files:**
+
+1. `@Writing/context/emiliano-moran.md` - Personal context, working style, ADHD considerations, and how to communicate with Emiliano
+2. `@Writing/context/emiliano-role.md` - Role context: Design Systems Leader responsibilities, what design systems are, and how to help effectively
+
+**These documents contain essential context about:**
+- Who Emiliano is and how he works (Design Systems Leader at Expedia Group)
+- How to communicate with him (direct, no fluff, reduce cognitive load, no emojis, no pep talk)
+- His ADHD considerations (break things into steps, one thing at a time, avoid overwhelming, simple linear plans)
+- What he needs help with (strategy → execution, writing, decision framing, program management, AI workflows)
+- His role responsibilities (product strategy, systems thinking, cross-functional leadership, governance, quality, AI exploration)
+
+**Apply this context to:**
+- All writing and deliverables
+- Task breakdown and planning
+- Communication style and structure
+- Suggestions and recommendations
+- How you structure your responses
+
+**This is non-negotiable.** Read these files first, then proceed with the task. These context files inform everything else in this workspace.

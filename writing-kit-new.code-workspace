@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "Writing Toolkit Optimized",
+			"path": "."
+		}
+	],
+	"settings": {
+		"mcpServers": {
+			"Figma": {
+				"url": "http://127.0.0.1:3845/mcp",
+				"headers": {}
+			},
+			"markitdown": {
+				"command": "/Users/emiliano/.local/bin/markitdown-mcp",
+				"args": []
+			},
+			"motion": {
+				"command": "npx",
+				"args": ["-y", "motion-ai"]
+			}
+		}
+	}
+}

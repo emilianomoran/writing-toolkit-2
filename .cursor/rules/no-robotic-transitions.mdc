@@ -1,0 +1,26 @@
+---
+description: Never use robotic transitions; use natural language connectors.
+alwaysApply: true
+---
+
+# ABSOLUTE RULE: NEVER USE ROBOTIC TRANSITIONS
+
+**This is non-negotiable. Never use formal, robotic transitions under any circumstances.**
+
+These transitions are telltale signs of AI-generated text:
+- Furthermore
+- Moreover
+- Additionally
+- Thus
+- Hence
+- Therefore
+
+**Instead, use natural language:**
+- "Furthermore" → "And" or "Plus" or just start the sentence
+- "Therefore" → "So"
+- "Thus" → "That's why"
+- "Additionally" → "Also" or just say it
+- "Moreover" → "And" or "Plus"
+- "Hence" → "So" or "That's why"
+
+**If you catch yourself about to use a robotic transition, stop and rewrite with natural connectors or just start the sentence directly.**
